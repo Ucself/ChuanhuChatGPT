@@ -323,7 +323,7 @@ with gr.Blocks(theme=small_and_beautiful_theme) as demo:
                         updateChuanhuBtn = gr.Button(visible=False, elem_classes="invisible-btn", elem_id="update-chuanhu-btn")
 
 
-    gr.Markdown(CHUANHU_DESCRIPTION, elem_id="description")
+    # gr.Markdown(CHUANHU_DESCRIPTION, elem_id="description")
     gr.HTML(get_html("footer.html").format(versions=versions_html()), elem_id="footer")
 
     # https://github.com/gradio-app/gradio/pull/3296
