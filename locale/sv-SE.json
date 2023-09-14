@@ -84,5 +84,5 @@
     "由于下面的原因，Google 拒绝返回 PaLM 的回答：\n\n": "På grund av följande skäl vägrar Google att ge ett svar till PaLM: \n\n",
     "---\n⚠️ 为保证API-Key安全，请在配置文件`config.json`中修改网络设置": "---\n⚠️ För att säkerställa säkerheten för API-nyckeln, vänligen ändra nätverksinställningarna i konfigurationsfilen `config.json`.",
     "网络参数": "nätverksparametrar",
-    "libaojun-chatt": "libaojun-chat"
+    "ChatRobot": "ChatRobot"
 }  

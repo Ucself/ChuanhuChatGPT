@@ -549,7 +549,7 @@ logging.info(
     + colorama.Style.RESET_ALL
 )
 # 默认开启本地服务器，默认可以直接从IP访问，默认不创建公开分享链接
-demo.title = i18n("libaojun-chat")
+demo.title = i18n("ChatRobot")
 
 if __name__ == "__main__":
     reload_javascript()
